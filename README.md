@@ -4,6 +4,8 @@
 
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
 
+[Easy Steps to Build Token-Based Authentication in NodeJs with JWT & MySQL.](https://www.sevensquaretech.com/nodejs-jwt-authentication-mysql-with-code/)
+
 ![jwt-token-authentication-node-js-example-flow](jwt-token-authentication-node-js-example-flow.png)
 
 You may need to implement Refresh Token:
